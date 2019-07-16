@@ -1,0 +1,18 @@
+{
+    "name": "zouzhiqiang/helper-function",
+    "description": "output",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "邹志强",
+            "email": "13055055457@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
